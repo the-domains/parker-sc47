@@ -1,0 +1,28 @@
+name: Parker SC47
+favicon: null
+layout_spectrum: 0.12225633230991662
+typography_spectrum: 0.0016918261535465717
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.704714389052242
+  lightness: 0.20127716031856835
+  saturation: 0.8831085471902043
+  rhythmicContrast: 0.9865837674587965
+purpose: []

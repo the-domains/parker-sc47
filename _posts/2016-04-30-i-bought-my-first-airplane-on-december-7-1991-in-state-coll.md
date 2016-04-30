@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'I bought my first airplane on December 7, 1991 in State College, PA. A Bellanca Cruisair, 14-13-2 - N86728, Ser# 1089. I hangared the plane at the Greeville Downtown Airport (KGMU). One of our first trips in the plane was to Hartsville, SC to visit Jane’s mother. Shortly after taking off from GMU, heading to the the SE and still climbing - we passed over what looked to me like a grass strip about 10 miles from GMU, I made a mental note. A few months later, same trip to Hartsville and again I saw the same grass strip. In 1994 I inquired at the Williamsport private airpark on the NE side of Easley about lots that were for sale there, at that time it was still. I began to consider buying one. Another thought was to find some land and start an airpark.'
-datePublished: '2016-04-30T20:14:12.395Z'
-dateModified: '2016-04-30T20:12:43.449Z'
+description: 'I bought my first airplane on December 7, 1991 in State College, PA. A Bellanca Cruisair, 14-13-2 - N86728, Ser# 1089. I hangared the plane at the Greeville Downtown Airport (KGMU). One of our first trips in the plane was to Hartsville, SC to visit Jane’s mother. Shortly after taking off from GMU, heading to the the SE and still climbing - we passed over what looked to me like a grass strip about 10 miles from GMU, I made a mental note. A few months later, same trip to Hartsville and again I saw the same grass strip. In 1994 I inquired at the Williamsport private airpark on the NE side of Easley about lots that were for sale there, at that time it was still. I began to consider buying one. Another way to make it happen was to find some land and develop an airpark.'
+datePublished: '2016-04-30T20:22:05.270Z'
+dateModified: '2016-04-30T20:21:46.488Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-i-bought-my-first-airplane-on-december-7-1991-in-state-coll.md
@@ -19,10 +19,12 @@ publisher:
   favicon: null
 starred: false
 url: i-bought-my-first-airplane-on-december-7-1991-in-state-coll/index.html
-_type: Article
+_type: Blurb
 
 ---
-I bought my first airplane on December 7, 1991 in State College, PA. A Bellanca Cruisair, 14-13-2 - N86728, Ser\# 1089\. I hangared the plane at the Greeville Downtown Airport (KGMU). One of our first trips in the plane was to Hartsville, SC to visit Jane's mother. Shortly after taking off from GMU, heading to the the SE and still climbing - we passed over what looked to me like a grass strip about 10 miles from GMU, I made a mental note. A few months later, same trip to Hartsville and again I saw the same grass strip. In 1994 I inquired at the Williamsport private airpark on the NE side of Easley about lots that were for sale there, at that time it was still. I began to consider buying one. Another thought was to find some land and start an airpark.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9615b286-3c69-47a9-a0e8-10fddee67337.tif)
+
+I bought my first airplane on December 7, 1991 in State College, PA. A Bellanca Cruisair, 14-13-2 - N86728, Ser\# 1089\. I hangared the plane at the Greeville Downtown Airport (KGMU). One of our first trips in the plane was to Hartsville, SC to visit Jane's mother. Shortly after taking off from GMU, heading to the the SE and still climbing - we passed over what looked to me like a grass strip about 10 miles from GMU, I made a mental note. A few months later, same trip to Hartsville and again I saw the same grass strip. In 1994 I inquired at the Williamsport private airpark on the NE side of Easley about lots that were for sale there, at that time it was still. I began to consider buying one. Another way to make it happen was to find some land and develop an airpark.
 
 The 'airstrip' I saw on a couple of trips to Hartsville was worth looking into - just go out and find it and look for the owner. I flew out to the area I remembered seeing it in, flew around in circles, searched for it more than once and could not find it. Went back to GMU, landed, took off again and started out on a flight towards Hartsville - a few minutes later I found it. I had an early handheld Trimble GPS unit, captured its location, flew around the area and sketched the roads from there to Simpsonville and then landed back at GMU. Drove to Simpsonville and followed the landmarks and roads I diagrammed, went straight to the 'airfield'. I found a metal farm gate along Stewart Road just past the old peach packing shed, parked there and walked along the tractor path to the 'runway'. It was grown up completely to over waist high, but it looked like a runway - long, straight and wide. Walked back to my truck and found another truck with two men standing there.
 

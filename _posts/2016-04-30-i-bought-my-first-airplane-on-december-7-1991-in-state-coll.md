@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I bought my first airplane on December 7, 1991 in State College, PA. A Bellanca Cruisair 14-13-2, N86728, Ser# 1089. I hangared the plane at the Greenville Downtown Airport (KGMU). One of our first trips in the plane was to Hartsville, SC to visit Jane’s mother. Shortly after taking off from GMU, heading to the the SE and still climbing - we passed over what looked to me like a grass strip about 10 miles from GMU, I made a mental note. A few months later, same trip to Hartsville and again I saw the same grass strip. Around 1990 I inquired at the Williamsport private airpark on the NE side of Easley about lots that were for sale there, at that time there were only a few houses there. I began to consider buying a lot at Williamsport; my recollection is that the lot purchase terms were $10K for a 1 acre lot, 10% down, 10% interest for 10 years. Another way to make build a house at an airpark was to find some land and develop an airpark myself.'
-datePublished: '2016-05-01T01:10:04.121Z'
-dateModified: '2016-05-01T01:10:03.168Z'
+datePublished: '2016-05-01T11:49:25.231Z'
+dateModified: '2016-05-01T11:49:25.002Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-i-bought-my-first-airplane-on-december-7-1991-in-state-coll.md
